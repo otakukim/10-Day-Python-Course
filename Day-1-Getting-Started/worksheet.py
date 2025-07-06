@@ -459,5 +459,3 @@ print("✅ Variables for storing information")
 print("✅ Combining variables with print statements")
 print("✅ Creative text formatting")
 
-# Tomorrow we learn about user input and data types!
-# For homework: Create a program using BOTH variables and creative printing!
