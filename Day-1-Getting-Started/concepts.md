@@ -15,3 +15,18 @@ Your first magic spell! Makes the computer display text.
 **Basic Format:**
 ```python
 print("Your message here")
+```
+
+## Examples:
+```python
+print("Hello, World!")
+print("I am learning Python!")
+print("This is so cool!")
+```
+
+## Comments
+Use # to add notes that Python ignores
+python
+
+```# This is a comment```
+```print("This code runs")```  # This explains the code
