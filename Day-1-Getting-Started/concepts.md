@@ -26,7 +26,13 @@ print("This is so cool!")
 
 ## Comments
 Use # to add notes that Python ignores
-python
 
-```# This is a comment```
-```print("This code runs")```  # This explains the code
+```python
+# This is a comment
+```
+
+
+
+```python
+print("This code runs")```  # This explains the code
+```
