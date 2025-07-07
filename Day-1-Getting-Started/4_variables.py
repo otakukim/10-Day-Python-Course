@@ -1,5 +1,5 @@
 # ==========================================
-# SECTION 6: Variables - Information Storage
+# SECTION 4: Variables - Information Storage
 # ==========================================
 
 print("SECTION 6: Variables - Your Information Vault")
