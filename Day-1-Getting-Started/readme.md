@@ -5,6 +5,10 @@
 - How to make computers "talk" 
 - Writing your first Python spells (programs)
 - Basic print() magic
+- Using Quotes
+- Multi line prints
+- Variables
+- Calculation
 
 ## Today's Goal
 By the end of today, you'll cast your first Python spell and make the computer say anything you want!
