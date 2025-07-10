@@ -20,6 +20,36 @@ Inside each day's folder, you will find:
 
 ---
 
+## 🌐 Using This Repo on GitHub
+
+To personalize and use this course material:
+
+1. **Fork the repository**  
+   - Go to the top-right corner of this repo on GitHub and click **"Fork"**.
+   - This creates your own copy under your GitHub account where you can make changes.
+
+2. **Clone the forked repo (optional)**  
+   - If you want to work locally on your machine:
+     ```bash
+     git clone https://github.com/YOUR_USERNAME/10-day-python-course.git
+     cd 10-day-python-course
+     ```
+
+---
+
+## 💻 Run Python Code with Trinket (No Installation Needed)
+
+We recommend using [Trinket.io](https://trinket.io) if you're not installing Python locally:
+
+1. Go to [https://trinket.io](https://trinket.io)
+2. Click **"New Trinket" > "Python 3"**
+3. Copy and paste code from the `.py` files into the editor
+4. Click **"Run"** to see your program in action!
+
+Trinket is great for experimenting and sharing your code online.
+
+---
+
 ## 🗓️ Course Progress
 
 - ➡️ **Day 1**: [Getting Started](./Day-1-Getting-Started) 
