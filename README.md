@@ -22,7 +22,7 @@ Inside each day's folder, you will find:
 
 ## 🗓️ Course Progress
 
-- ➡️ **Day 1**: Getting Started  
+- ➡️ **Day 1**: [Getting Started](./Day-1-Getting-Started) 
 - ➡️ **Day 2**: Interactive Python & Data Types  
 - ➡️ **Day 3**: Storing Collections of Data  
 - ➡️ **Day 4**: Automating with Loops  
