@@ -42,9 +42,10 @@ To personalize and use this course material:
 We recommend using [Trinket.io](https://trinket.io/home)) if you're not installing Python locally:
 
 1. Go to [https://trinket.io](https://trinket.io/home)
-2. Click **"New Trinket" > "Python 3"**
-3. Copy and paste code from the `.py` files into the editor
-4. Click **"Run"** to see your program in action!
+2. 📝 Sign up for a free account (or log in if you already have one)
+3. Click **"New Trinket" > "Python 3"**
+4. Copy and paste code from the `.py` files into the editor
+5. Click **"Run"** to see your program in action!
 
 Trinket is great for experimenting and sharing your code online.
 
