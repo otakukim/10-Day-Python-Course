@@ -23,9 +23,9 @@ Inside each day's folder, you will find:
 ## 🗓️ Course Progress
 
 - ➡️ **Day 1**: [Getting Started](./Day-1-Getting-Started) 
-- ➡️ **Day 2**: [Interactive Python & Data Types](./Day-2-Interactive-Programming + Data-Types)  
-- ➡️ **Day 3**: Storing Collections of Data  
-- ➡️ **Day 4**: Automating with Loops  
+- ➡️ **Day 2**: [Interactive Programming & Data Types](./Day-2-Interactive-Programming%20%2B%20Data-Types/)  
+- ➡️ **Day 3**: [Python's built-in collection types](./Day-3-Python%27s-built-in-collection-types/)
+- ➡️ **Day 4**: [Automating with Loops](./Day-4-Automating-with-loops/) 
 - 🔜 **Day 5**: Coming Soon...
 
 ---
