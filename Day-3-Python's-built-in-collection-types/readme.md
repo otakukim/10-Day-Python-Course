@@ -2,8 +2,7 @@
 
 Day 3 was all about organization! We learned how to store and manage multiple pieces of data using Python's powerful built-in collection types. This is the foundation for handling complex information.
 
-* **Full Script:** [`day_3_script.py`](./day_3_script.py)
-* **Cheat Sheet:** [`day_3_cheatsheet.md`](./day_3_cheatsheet.md)
+* **Cheat Sheet:** [`day_3_cheatsheet.md`](./day3_cheatsheet.md)
 
 ---
 
