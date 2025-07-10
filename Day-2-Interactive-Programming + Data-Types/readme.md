@@ -2,7 +2,7 @@
 
 On Day 2, we moved from simple `print` statements to creating programs that can have a conversation with the user. We learned how Python handles different kinds of data and how to make programs that can make decisions.
 
-* **Cheat Sheet:** [`day_2_cheatsheet.md`](./day_2_cheatsheet.md)
+* **Cheat Sheet:** [`day_2_cheatsheet.md`](./day2_cheatsheet.md)
 
 ---
 
