@@ -39,7 +39,7 @@ To personalize and use this course material:
 
 ## 💻 Run Python Code with Trinket (No Installation Needed)
 
-We recommend using [Trinket.io](https://trinket.io/home)) if you're not installing Python locally:
+We recommend using [Trinket.io](https://trinket.io/home) if you're not installing Python locally:
 
 1. Go to [https://trinket.io](https://trinket.io/home)
 2. 📝 Sign up for a free account (or log in if you already have one)
