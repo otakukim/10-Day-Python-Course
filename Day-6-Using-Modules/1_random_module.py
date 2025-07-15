@@ -23,3 +23,22 @@ roll = random.randint(1, 6)
 print(f"You rolled a {roll}!")
 
 print("\n" + "="*50)
+
+# Exercise 1.2: Making a Random Choice
+# random.choice(sequence) returns a random element from a list or tuple.
+print("Choosing a team captain...")
+players = ["Alice", "Bob", "Charlie", "David"]
+captain = random.choice(players)
+print(f"The new captain is: {captain}!")
+
+print("\n" + "="*50)
+
+# YOUR CODE HERE - Create a simple coin flip.
+# 1. Create a list with two items: "Heads" and "Tails".
+# 2. Use random.choice() to pick one of them.
+# 3. Print the result.
+# YOUR CODE HERE:
+
+
+
+print("\n" + "="*50)
