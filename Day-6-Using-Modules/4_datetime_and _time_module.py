@@ -27,3 +27,24 @@ print("\n" + "="*50)
 
 
 print("\n" + "="*50)
+
+# Exercise 3.3: Pausing Your Program
+import time
+
+print("This will print immediately.")
+time.sleep(2) # Pauses the program for 2 seconds
+print("This printed after a 2-second delay.")
+
+print("\n" + "="*50)
+
+# Exercise 3.4: YOUR CODE HERE - Create a 3-second countdown.
+# 1. Print "Starting countdown..."
+# 2. Print "3", then pause for 1 second.
+# 3. Print "2", then pause for 1 second.
+# 4. Print "1", then pause for 1 second.
+# 5. Print "Go!"
+# YOUR CODE HERE:
+
+
+
+print("\n" + "="*50)
