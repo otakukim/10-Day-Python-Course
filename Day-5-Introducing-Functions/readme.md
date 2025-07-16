@@ -1,4 +1,4 @@
-# ➡️ Day 5: Organizing Code with Functions
+# ➡️ Day 5: Introducing Functions
 
 Day 5 was a huge step forward! We learned how to package our code into reusable blocks called **functions**. This is the most important organizational tool in programming and helps us write cleaner, more efficient code by following the "Don't Repeat Yourself" (DRY) principle.
 
