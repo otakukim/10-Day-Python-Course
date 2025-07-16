@@ -3,7 +3,7 @@
 Day 5 was a huge step forward! We learned how to package our code into reusable blocks called **functions**. This is the most important organizational tool in programming and helps us write cleaner, more efficient code by following the "Don't Repeat Yourself" (DRY) principle.
 
 
-* **Cheat Sheet:** [`day_5_cheatsheet.md`](./5_cheatsheet.md)
+* **Cheat Sheet:** [`day_5_cheatsheet.md`](./day5_cheatsheet.md)
 
 ---
 
