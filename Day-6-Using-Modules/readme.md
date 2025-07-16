@@ -2,8 +2,7 @@
 
 On Day 6, we learned how to unlock Python's vast ecosystem of pre-built tools by using **modules**. Instead of writing everything from scratch, we can import powerful code written by others to add new features to our programs instantly.
 
-* **Full Script:** [`day_6_script.py`](./day_6_script.py)
-* **Cheat Sheet:** [`day_6_cheatsheet.md`](./day_6_cheatsheet.md)
+* **Cheat Sheet:** [`day_6_cheatsheet.md`](./6_cheatsheet.md)
 
 ---
 
