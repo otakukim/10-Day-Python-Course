@@ -56,6 +56,28 @@ with open('data.txt', 'r') as file:
         print(line.strip())
 ```
 
+## The `print()` Function and Newlines
+
+When reading from a file, the `print()` function can be misleading. It automatically adds a newline character (`\n`) to the end of its output. This means that even if you use `.strip()` to remove the newline from the line you read, `print()` will add it right back.
+
+**Default Behavior:**
+
+```python
+for line in file:
+    # This prints each line on a new line because print() adds a newline
+    print(line.strip())
+```
+
+**How to Control It:**
+
+Use the `end` parameter in the `print()` function to change what character is added at the end.
+
+```python
+for line in file:
+    # This will print all lines on the same line, separated by a space
+    print(line.strip(), end=' ')
+```
+
 ### Reading into a List of Lines (`.readlines()`)
 Reads the entire file into a list of strings, where each string is a line.
 ```python
