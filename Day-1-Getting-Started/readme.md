@@ -2,8 +2,7 @@
 
 Welcome to Day 1! This was our introduction to the world of Python. We started with the absolute basics, learning how to give the computer instructions, store information, and leave notes in our code for other humans to read.
 
-* **Full Script:** [`day_1_script.py`](./day_1_script.py)
-* **Cheat Sheet:** [`day_1_cheatsheet.md`](./day_1_cheatsheet.md)
+* **Cheat Sheet:** [`day_1_cheatsheet.md`](./day1_cheatsheet.md)
 
 ---
 
