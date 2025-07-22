@@ -24,7 +24,9 @@
 # my_hobby = ...
 # my_fun_fact = ...
 
-
+Proffession =
+Education_Level=
+Job_Title=
 
 
 
@@ -55,3 +57,4 @@
 # print("Here's a smiley face for you:")
 # print("  :-)  ")
 # print()
+print(''' Profession , Education_Level , Job_Title''')
