@@ -2,7 +2,7 @@
 
 Congratulations on completing the 10-Day Python Course! This final day was about connecting the concepts you've learned to real-world applications and exploring some powerful, "Pythonic" features that will make your code even better.
 
-* **Cheat Sheet:** [`day_10_cheatsheet.md`](./Ultimate_cheatsheet.md)
+* **Cheat Sheet:** [`Ultimate_Python_cheatsheet.md`](./Ultimate_cheatsheet.md)
 
 ---
 
