@@ -3,7 +3,7 @@
 Day 7 gave our programs a memory! We learned about **File I/O (Input/Output)**, which allows our programs to save data to files and read it back later. This is how applications remember information even after they are closed.
 
 
-* **Cheat Sheet:** [`day_7_cheatsheet.md`](./day7_cheatsheet.md)
+* **Cheat Sheet:** [`day7_cheatsheet.md`](./day7_cheatsheet.md)
 
 ---
 
